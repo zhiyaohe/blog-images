@@ -1,0 +1,3 @@
+Hello, I am a message from the server.
+You have successfully received text from the server.
+Well done!
